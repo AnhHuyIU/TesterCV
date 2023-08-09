@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #e94f4f !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6225,7 +6225,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #e94f4f !important;
 }
 
 .border-secondary {
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #e94f4f !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #e94f4f;
 }
 
 .dev-icons {
